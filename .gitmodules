@@ -1,0 +1,9 @@
+[submodule "angie-gateway"]
+	path = angie-gateway
+	url = https://github.com/aguemes-appvant/angie-gateway.git
+[submodule "angie-service2-ms"]
+	path = angie-service2-ms
+	url = https://github.com/aguemes-appvant/angie-service2-ms.git
+[submodule "angie-service1-ms"]
+	path = angie-service1-ms
+	url = https://github.com/aguemes-appvant/angie-service1-ms.git
